@@ -10,7 +10,8 @@ This repository contains implementations of practical exercises as outlined in t
 
 Assignment No - 1 : Write a Python program to plot a few activation functions that are being used in neural networks
 
-Assignment No - 2 : Generate ANDNOT function using McCulloch-Pitts neural net by a python program.
+Assignment No - 3 : Write a Python Program using Perceptron Neural Network to recognise even and odd numbers.
+Given numbers are in ASCII form 0 to 9
 
 Mini Project : Vehicle Number Plate Detection 
 The advancement in image processing techniques has facilitated significant progress in automated systems for various applications, including number plate detection in vehicles. This paper presents a robust system developed using Convolutional Neural Networks (CNNs) for the detection and recognition of vehicle number plates. The proposed system employs a CNN architecture to accurately detect number plates from images captured in diverse environmental conditions and varying angles. We utilize a custom dataset, comprising images with a wide range of backgrounds, lighting conditions, and plate designs, to train the CNN, ensuring the model's effectiveness across different scenarios. Our approach involves preprocessing steps such as image normalization and augmentation to enhance model training. 
